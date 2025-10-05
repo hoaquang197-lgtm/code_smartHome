@@ -1,0 +1,7 @@
+../Core/Src/user_lib/sim4g.c:13:6:sim4g_print	1
+../Core/Src/user_lib/sim4g.c:25:6:sim4g_write	1
+../Core/Src/user_lib/sim4g.c:31:6:ec200_mqtt_publish	1
+../Core/Src/user_lib/sim4g.c:64:6:GSM_SendString	1
+../Core/Src/user_lib/sim4g.c:69:6:sim4g_send_sms	1
+../Core/Src/user_lib/sim4g.c:112:6:sim4g_call	3
+../Core/Src/user_lib/sim4g.c:166:6:CheckSimBusy	4

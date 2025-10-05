@@ -1,0 +1,6 @@
+../Core/Src/user_lib/servo.c:5:14:clampf	24	static
+../Core/Src/user_lib/servo.c:11:19:SoftServo_Init	24	static
+../Core/Src/user_lib/servo.c:28:19:SoftServo_AddChannel	32	static
+../Core/Src/user_lib/servo.c:49:19:SoftServo_SetPulseMs	32	static
+../Core/Src/user_lib/servo.c:61:19:SoftServo_SetAngle	40	static
+../Core/Src/user_lib/servo.c:70:6:SoftServo_OnTimerISR	24	static

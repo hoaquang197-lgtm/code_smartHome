@@ -1,0 +1,2 @@
+../Core/Src/user_lib/keypad.c:3:15:read_address_key	16	static
+../Core/Src/user_lib/keypad.c:59:6:read_key	16	static
